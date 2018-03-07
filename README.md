@@ -12,7 +12,7 @@ Edit these files to change display of questions
 ### app.js
 Edit this file to change questions <br>
 new Question("SAMPLE QUESTION", ["OPTION A", "OPTION B", "OPTION C", "OPTION D"], "CORRECT OPTION")
-<b>NOTE :</b> You can also add html tags like "img" "br" etc.
+<br><b>NOTE :</b> You can also add html tags like "img" "br" etc.
   
 ### chart/index.php
 Personality Questionnaire
