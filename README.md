@@ -1,7 +1,7 @@
 # Quiz Template
 
 
-## Files to customize :-
+## Files
 
 ### index.php
 Edit this file to change login form
